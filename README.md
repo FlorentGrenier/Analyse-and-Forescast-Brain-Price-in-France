@@ -1,4 +1,4 @@
-# Analyse and forescast brain price in France
+# Analyse and forescast bread price in France
 
 ## Table of Contents
 1. [General Info](#general-info)

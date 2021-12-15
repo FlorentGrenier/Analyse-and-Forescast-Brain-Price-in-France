@@ -22,3 +22,13 @@ The second graph show the actual and predicted value and future value
 The third graph show the components extract (trend)
 
 <img src="res/forescast_graph_components.png" width="500" height="300" />
+
+This table shows 3 the forescast by table
+
+ Year | Forescast | Lower forescast | Upper forescast |
+ --- | --- | --- |--- |
+2022-09-27 | 3.604286 | 3.582768 | 3.625472 |
+2022-09-28 | 3.602145 | 3.581696 | 3.623564 |
+2022-09-29 | 3.599355 | 3.578212 | 3.619997 |
+
+Interpretaion l1 : On September 27, 2022 the price of bread will be 3.60 € 

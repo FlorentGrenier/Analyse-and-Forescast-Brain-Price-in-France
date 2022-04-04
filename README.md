@@ -14,7 +14,7 @@ This firt graph show the evolution of the bread
 
 <img src="res/price_evolution_by_year.png" width="500" height="300" />
 
-The second graph show the actual and predicted value and future value
+The second graph show the actual and predicted value
 
 <img src="res/forescast_graph.png" width="500" height="300" />
 

@@ -30,4 +30,4 @@ This table shows 3 the forescast by table
 2022-09-28 | 3.602145 | 3.581696 | 3.623564 |
 2022-09-29 | 3.599355 | 3.578212 | 3.619997 |
 
-<br> Interpretation line 1 : On September 27, 2022 the price of bread will be 3.60 € in France </br>
+<b> Interpretation line 1 : On September 27, 2022 the price of bread will be 3.60 € in France </b>

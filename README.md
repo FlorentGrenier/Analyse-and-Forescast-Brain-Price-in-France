@@ -9,6 +9,9 @@
 This project consist to analyse and predict the future price of the bread in France.
 For my prediction I use [Prophet](https://github.com/facebook/prophet) released by Facebook's Core Data Science team.
 
+## Data
+The data is from INSEE : https://www.insee.fr/fr/statistiques/serie/000442423
+
 ## Result
 This firt graph show the evolution of the bread
 
